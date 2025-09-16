@@ -4,6 +4,7 @@ Classificador de Nível de Herói
 Objetivo:
  - Desenvolver o código do desafio: Classificador de Nível de Herói
 
+
 Requisitos:
  - Utiizar: Variáveis, Operadores, Laços de repetição, Estruturas de decisão
  - Criar uma variável para armazenar o nome de um herói
