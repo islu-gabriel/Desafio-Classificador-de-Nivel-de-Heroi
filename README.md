@@ -6,7 +6,7 @@ Objetivo:
 
 
 Requisitos:
- - Utiizar: Variáveis, Operadores, Laços de repetição, Estruturas de decisão
+ - Utilizar: Variáveis, Operadores, Laços de repetição, Estruturas de decisão
  - Criar uma variável para armazenar o nome de um herói
  - Criar uma variável para armazenar a quantidade de experiência (XP) de um herói
  - Utilizar uma estrutura de decisão para apresentar uma das seguintes mensagen: 
