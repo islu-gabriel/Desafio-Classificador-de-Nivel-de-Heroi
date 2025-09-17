@@ -9,7 +9,8 @@ Requisitos:
  - Utilizar: Variáveis, Operadores, Laços de repetição, Estruturas de decisão
  - Criar uma variável para armazenar o nome de um herói
  - Criar uma variável para armazenar a quantidade de experiência (XP) de um herói
- - Utilizar uma estrutura de decisão para apresentar uma das seguintes mensagen: 
+ - Utilizar uma estrutura de decisão para apresentar uma das seguintes mensagen:
+
    Se XP for menor do que 1.000 = Ferro
    Se XP for entre 1.001 e 2.000 = Bronze
    Se XP for entre 2.001 e 5.000 = Prata
