@@ -9,7 +9,7 @@ Requisitos:
  - Utilizar: Variáveis, Operadores, Laços de repetição, Estruturas de decisão
  - Criar uma variável para armazenar o nome de um herói
  - Criar uma variável para armazenar a quantidade de experiência (XP) de um herói
- - Utilizar uma estrutura de decisão para apresentar uma das seguintes mensagen:
+ - Utilizar uma estrutura de decisão para apresentar uma das seguintes mensagens:
 
    Se XP for menor do que 1.000 = Ferro
 
@@ -27,4 +27,8 @@ Requisitos:
 
    Se XP for maior ou igual a 10.001 = Radiante
 
- - Exibir, ao final, uma mensagem com: nome e Xp do herói, concatenando com suas respectivas variáveis
+ - Exibir ao final uma mensagem e concatenar variáveis com:
+
+   Nome do herói
+
+   Xp do herói
