@@ -9,9 +9,6 @@ let nivelDeXp = 1
 console.log(nomeDoHeroi + ", atualmente o seu nível de XP é = " + nivelDeXp)
 console.log()
 
-
-
-
 // A ESCOLHA DE UM CAMINHO ATRAVÉS DE UM INPUT,
 // E SUAS CONSEQUÊNCIAS ATRAVÉS DE UMA ESTRUTURA DE CONTROLE DE DECISÃO IF, ELSE IF, ELSE
 // OUTPUT DO RESULTADO
@@ -37,9 +34,6 @@ if (caminho === "direita") {
     console.log("Faça boas escolhas e obtenha um bom histórico de jornadas !")
 
 }
-
-
-
 
 // ESTRUTURA DE CONTROLE DE REPETIÇÃO PARA A ESCOLHA DE UMA NOVA JORNADA OU, 
 // O FIM DEFINTIVO DA JORNADA        
@@ -79,9 +73,6 @@ if (resposta === "sim") {
     console.log("INFORMAÇÕES:")
 
 }
-
-
-
 
 // PROCESS DE CLASSIFICAÇÃO DE NÍVEL DO HERÓI 
 // ATRAVÉS DE UMA ESTRUTURA DE CONTROLE DE DECISÃO SWITCH-CASE
@@ -124,9 +115,6 @@ switch (true) {
     break;
 
 }
-
-
-
 
 // OUTPUT COM NOME, NÍVEL DE XP E CLASSIFICAÇÃO DE NÍVEL DO HERÓI
 console.log(`HERÓI: ${nomeDoHeroi}`);
